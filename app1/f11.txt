@@ -1,2 +1,2 @@
 fichier11.txt
-fichier modifie en ligne
+fichier modifie en ligne.
